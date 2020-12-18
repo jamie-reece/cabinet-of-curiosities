@@ -1,0 +1,21 @@
+<section class="section first-level-toc has-text-centered has-background-primary">
+  <div class="columns">
+    <div class="column is-third">
+      <a href="/introduction">
+        <article>
+          <h1 class="title">
+            Introduction
+          </h1>
+          <h2 class="subtitle">
+            Read the editors' introduction
+          </h2>
+        </article>
+      </a>
+    </div>
+    {% for collection in site.collections %}
+      {% if collection.docs.size > 0 %}
+        {% include collection_block.html %}
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,27 @@
+{% assign part_one_authors = site.artificialia | map: "author" %}
+{% assign part_two_authors = site.naturalia | map: "author" %}
+{% assign all_authors = part_one_authors | concat: part_two_authors %}
+{% assign authors = "" | split: "," %}
+{% for author in all_authors %}
+  <!-- {% assign author_name = author | split: "and" %} -->
+  {% assign authors = authors | push: author | sort | uniq %}
+{% endfor %}
+
+<section class="section">
+  <div class="container">
+  {% for author in authors %}
+  <div class="block">
+    <h2 id="{{ author | slugify }}" class="title is-3">{{ author }}</h2>
+    {% assign part_one_works = site.artificialia | where: "author", author %}
+    {% assign part_two_works = site.naturalia | where: "author", author %}
+    {% assign works = part_one_works | concat: part_two_works %}
+    {% for item in works %}
+    <div class="block">
+      <p>{{ item.author_bio }}</p>
+    </div>
+    <p>Author of <a href="{{ item.url }}">{{ item.title }}</a></p>
+    {% endfor %}
+  </div>
+  {% endfor %}
+  </div>
+</section>

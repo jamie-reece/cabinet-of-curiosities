@@ -1,0 +1,19 @@
+<div class="column is-half-tablet is-one-quarter-desktop has-background-light">
+  <a href="{{ chapter.url | relative_url }}">
+    <div class="tile is-vertical p-6  has-text-centered">
+    <article>
+      <h1 class="title mt-6">
+        {{ chapter.title }}
+      </h1>
+      <p class="subtitle">
+        {{ chapter.author }}
+      </p>
+      <div class="tags mt-6">
+        {% for tag in chapter.tags %}
+          <span class="tag is-white">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </article>
+    </div>
+  </a>
+</div>

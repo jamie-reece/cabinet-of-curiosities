@@ -1,0 +1,35 @@
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "New World Objects of Knowledge" # the name of your site, e.g. ACME Corp.
+subtitle: "A Cabinet of Curiosities"
+authorship: "Mark Thurner and Juan Pimentel"
+
+collections_dir: content
+
+collections:
+  artificialia:
+    output: true
+    permalink: /:collection/:title/
+    sort_by: weight
+    descriptor: "Part one of the cabinet"
+  naturalia:
+    output: true
+    permalink: /:collection/:title/
+    sort_by: weight
+    descriptor: "Part two of the cabinet"
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "artificialia"
+    values:
+      layout: "chapter"
+  - scope:
+      path: ""
+      type: "naturalia"
+    values:
+      layout: "chapter"
