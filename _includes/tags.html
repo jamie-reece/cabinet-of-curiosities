@@ -1,0 +1,17 @@
+{% assign part_one_tags = site.artificialia | map: "tags" %}
+{% assign part_two_tags = site.naturalia | map: "tags" %}
+{% assign all_tags = part_one_tags | concat: part_two_tags %}
+{% assign tags = "" | split: "," %}
+{% for tag in all_tags %}
+  {% assign tags = tags | push: tag | uniq | sort %}
+{% endfor %}
+
+<section>
+  <div class="container">
+    <div class="tags p-6">
+      {% for tag in tags %}
+        <span class="tag is-large"><a href="/about/tags#{{ tag | slugify }}">{{ tag }}</a></span>
+      {% endfor %}
+    </div>
+  </div>
+</section>
