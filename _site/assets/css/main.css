@@ -4,4 +4,6 @@ body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMac
 
 a:hover { opacity: 0.75; }
 
+.hero-foot .decorative-banner { height: 5rem; background-image: url("/assets/img/figures/aztec.svg"); }
+
 /*# sourceMappingURL=main.css.map */
