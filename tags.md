@@ -13,7 +13,7 @@ permalink: /about/tags/
 <section class="section">
   <div class="container">
   {% for tag in tags %}
-  <div class="block">
+  <div class="block px-6">
     <h2 id="{{ tag | slugify }}" class="title is-3">{{ tag | capitalize }}</h2>
     {% assign part_one_works = site.artificialia | where: "tags", tag %}
     {% assign part_two_works = site.naturalia | where: "tags", tag %}

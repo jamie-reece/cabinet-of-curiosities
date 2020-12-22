@@ -15,5 +15,8 @@
       {{ content }}
     </main>
     {% include footer.html %}
+    {% if page.layout == "chapter" %}
+    <script src="/assets/js/further-reading.js"></script>
+    {% endif %}
   </body>
 </html>

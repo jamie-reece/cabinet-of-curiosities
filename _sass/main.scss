@@ -24,3 +24,16 @@ a:hover {
     background-image: url('/assets/img/figures/aztec.svg');
   }
 }
+
+article {
+  p:first-child {
+    text-indent: 2em;
+    margin-bottom: 1em;
+  }
+  p + p {
+    margin-bottom: 1em;
+  }
+  h2 + p {
+    margin-bottom: 1em;
+  }
+}
