@@ -4,6 +4,12 @@ title: "New World Objects of Knowledge" # the name of your site, e.g. ACME Corp.
 subtitle: "A Cabinet of Curiosities"
 authorship: "Mark Thurner and Juan Pimentel"
 
+plugins:
+  - jekyll-compress-images
+
+compress_images:
+  images_path: "content/images/*.{jpg,jpeg}"
+
 collections_dir: content
 
 collections:
