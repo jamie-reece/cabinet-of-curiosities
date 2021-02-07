@@ -1,19 +1,17 @@
 ---
 author: Jorge Cañizares-Esguerra
 weight: 15
+hero: pg108
 ---
 
-<div class="ch-opener" id="ch15">
-  <p class="CT">MESTIZO MEMORY PALACES</p>
-  <p class="Author-Heading">Jorge Ca&#xF1;izares-Esguerra</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch15">
   <figure><img id="fig1-ch15" class="img40" src="{{ site.baseurl }}/content/images/pg105.jpg" alt=""/>
   <figcaption><em>Figure 1. Mnemonic alphabet in Nahuatl, Pur&#xE9;pecha and Otom&#xED;. Diego de Valad&#xE9;s,</em> Rhetorica christiana <em>(Perugia, 1579).</em></figcaption></figure>
   <p>The greatest curiosities ever to appear in the 17th-century press of the global Hispanic Empire of the Indies were not the Canary Island &#x2018;lupine dwarfs&#x2019; featured as pages in every Spanish Habsburg court. Nor were &#x2018;wandering hermaphrodites&#x2019; the top attraction, although Catalina de Erauso surely captured the fancy of Seville. After running away as a nun in the 1580s to Chile, Catalina had fought as a squire in the wars of Arauco. She became a newspaper sensation in Seville at the moment Pope Urban VII granted her legal rights to act as a man when the inquisitive bishop of Huamanga (Peru) found the soldier out to be a woman. Catalina ended this life as a storied muleteer in Mexico. No, the real sensation and sweetheart of the Indies press was the Mexican Fray Francisco Guti&#xE9;rrez Naranjo, whose remarkable feats of memory astounded readers in Mexico and beyond. As we shall see, these feats were based on a sophisticated <em>mestizo</em> memory palace based in part on native signs and developed in Mexico (<a href="#fig1-ch15">Figure 1</a>).</p>
   <p>His feats were so incredible to readers that large numbers of those who attended the events gave notarised testimonies confirming their validity. In 1632, Fray Guti&#xE9;rrez Naranjo showed up unannounced at a contest for a vacant chair in theology at the Royal and Pontifical University of Mexico, founded in 1551. When the judging tribunal asked Guti&#xE9;rrez Naranjo to elaborate on a passage of Aquinas&#x2019;s <em>Summa</em>, he did one better. He had the complete works of Aquinas brought to the stage and asked the tribunal to randomly pick a sentence within any paragraph. Guti&#xE9;rrez Naranjo would recite the rest of the page. He repeated the trick for hours as faculty gathered around the spectacle (<a href="#fig2-ch15">Figure 2</a>). Although he did not get the job because candidates were also required to offer personal learned glosses on Aquinas, Guti&#xE9;rrez Naranjo showed that he could recite not only Aquinas verbatim but also any available printed commentary on the Dominican. To the amazement of everyone, he repeated the show in a new faculty search in 1636 (<a href="#fig3-ch15">Figure 3</a>).</p>
-  <figure><img id="fig2-ch15" class="img60" src="images/pg106-1.jpg" alt=""/>
+  <figure><img id="fig2-ch15" class="img60" src="{{ site.baseurl }}/content/images/pg106-1.jpg" alt=""/>
   <figcaption><em>Figure 2.</em> Informe aut&#xE9;ntico de la portentosa demonstraci&#xF3;n de sabidur&#xED;a que hizo en M&#xE9;xico el Padre Presentado Fray Francisco Naranjo, de la Orden de Santo Domingo, criollo de la dicha Ciudad <em>(Mexico City, 1632; public domain).</em></figcaption></figure>
-  <figure><img id="fig3-ch15" class="img60" src="images/pg106-2.jpg" alt=""/>
+  <figure><img id="fig3-ch15" class="img60" src="{{ site.baseurl }}/content/images/pg106-2.jpg" alt=""/>
   <figcaption><em>Figure 3.</em> Report of Francisco Guti&#xE9;rrez Naranjo, resident of Mexico City, on testimonies <em>(Mexico, 1636; public domain).</em></figcaption></figure>
   <p>The secret of Guti&#xE9;rrez Naranjo lay in his ability to traverse the cities and palaces of memory he had learned in treatises of <em>ars memoriae</em> that had long been circulating in Tenochtitlan. The first treatise on city-palaces of memory written by a Mexican was Diego de Valad&#xE9;s&#x2019; <em>Rhetorica christiana</em>, printed in Perugia in 1579 (<a href="#fig4-ch15">Figure 4</a>). Valad&#xE9;s was typical of his age: the mestizo son of a Spanish conquistador and a Tlaxcalan noblewoman. He entered the Franciscan order in Mexico and then moved to Rome, where he became a powerful member of the curia and a friend of Pope Gregory XIII, to whom he dedicated his <em>Rhetorica</em>. Although Valad&#xE9;s lifted his mnemonics of cities and palaces of memory from Joannes Romberch&#x2019;s <em>Congestorius artificisiose memoriae</em> (1533)<a id="footnote-021-backlink" href="#footnote-021"><sup>1</sup></a> without attributions, he did introduce readers to striking novelties.</p>
   <p><em>Rhetorica christiana</em> included a detailed account of the techniques and images used by Franciscan friars in Mexico to convert and catechise natives, including not only Nahuas but also Chichimecas, Otom&#xED;s and Tarascans. Valad&#xE9;s offered countless illustrations devised by Flemish friars like Peter of Ghent and Juan Focher to secure the conversion of both Nahua elites in central Mexico and stateless Chichimec polities in the northern frontiers.</p>
@@ -39,7 +37,12 @@ weight: 15
   <p>In short, Valad&#xE9;s&#x2019; mestizo memory palace was half-Aztec in much the same way as that in which the Franciscan monasteries in Mexico were half-Aztec theatres of memory designed for native Christian contemplation and conversion. The secret of Guti&#xE9;rrez Naranjo&#x2019;s brilliant performances of memory lay precisely in Valad&#xE9;s&#x2019; <em>ars memoriae</em>. This early modern mestizo art of memory created a magnificent archive of the making of knowledge in translation, one that historians continue to learn from.</p>
   <figure><img id="fig10-ch15" class="img60" src="{{ site.baseurl }}/content/images/pg113.jpg" alt=""/>
   <figcaption><em>Figure 10. Mexico within the Great Chain of Being. Valad&#xE9;s,</em> Rhetorica christiana.</figcaption></figure>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-021" href="#footnote-021-backlink">1</a></sup> Romberch, J. H. V., Sessa, M. &amp; Crawford, W. H. (1533) Congestorium Artificiose Memorie. (Venice: Melchiorem Sessam).</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Carruthers, M. (1990) <em>The Book of Memory</em> (New York, NY: Cambridge University Press).</p>
   <p class="further-reading-ref">de la Maza, F. (1945) <em>Fray Diego Valad&#xE9;s: escritor y grabador franciscano del siglo XVI</em> (Mexico City: UNAM Instituto de Investigaciones Est&#xE9;ticas).</p>
@@ -47,6 +50,3 @@ weight: 15
   <p class="further-reading-ref">Spence, J.D. (1984) <em>The Memory Palace of Matteo Ricci</em> (New York, NY: Viking Penguin).</p>
   <p class="further-reading-ref">Yates, F.A. (1966) <em>The Art of Memory</em> (Chicago, IL: University of Chicago Press).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-021" href="#footnote-021-backlink">1</a></sup> Romberch, J. H. V., Sessa, M. &amp; Crawford, W. H. (1533) Congestorium Artificiose Memorie. (Venice: Melchiorem Sessam).</p>
-  

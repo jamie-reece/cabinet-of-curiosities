@@ -1,12 +1,10 @@
 ---
 author: Kris Lane
 weight: 3
+hero: pg24
 ---
 
-<div class="ch-opener" id="ch3">
-  <p class="CT">POTOS&#xCD;</p>
-  <p class="Author-Heading">Kris Lane</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch3">
   <p>Although the exhilarating Spanish catchphrase <em>vale un Potos&#xED;</em> (roughly, &#x2018;that&#x2019;s worth a fortune&#x2019;) is still alive today, the tremendous significance of Potos&#xED; in global history has faded from modern memory. The Imperial Villa of Potos&#xED; and the iconic mountain of silver that towers over it, called Sumaj Urku or &#x2018;Beautiful Mountain&#x2019; in Quechua and in Spanish Cerro Rico or &#x2018;Rich Hill&#x2019;, were once home to one of the world&#x2019;s largest cities, industrial complexes and silver mines. The city in its early 17th-century heyday boasted a cosmopolitan, multicultural population that rivalled London&#x2019;s. Those who could not visit the Imperial Villa found their own Potos&#xED; in the form of a woodcut, engraving or painting.</p>
   <p>Apparently discovered in 1545 by an Andean prospector named Diego Huallpa, the Cerro Rico, an eroded volcanic plug jutting up 4,782 m or nearly 16,000 feet above sea level, quickly captured the world&#x2019;s imagination. Beneath its red and ochre surface, miners dove straight underground chasing half a dozen major and over a hundred minor vein systems, all phenomenally rich in silver. In the first decades, heavily oxidised ores were smelted in llama-dung-fired indigenous furnaces called <em>guairas</em>, borrowing the Quechua word for wind. Aligned up and down the ridged hills surrounding the city, several thousand guairas burned through the night thanks to katabatic breezes, the brisk downdrafts that came on at sunset (<a href="#fig2-ch3">Figure 2</a>). Invisible in the dark was the toxic blue smoke of lead flux that descended into populated valleys and ravines.</p>
   <p>As the mines plunged deeper, enriched and friable surface ores gave way to harder, sometimes refractory ores, grey-to-black rocks containing plenty of silver but requiring more sophisticated methods of milling and refining. These ores, often containing zinc, lead and even tin, resisted smelting in the guairas, so it was only with the construction of large-scale mercury amalgamation facilities after 1572 that the silver potential of these ores was unlocked. Amalgamation required large, water-powered crushing mills, which put a premium on wood but also required the creation of an extensive system of reservoirs and canals in the neighbouring Kari guarantor mountains. Over a hundred stamp mills operated along Potos&#xED;&#x2019;s main gulch by the early 1590s, when the mines reached peak production (<a href="#fig3-ch3">Figure 3</a>).</p>
@@ -14,13 +12,13 @@ weight: 3
   <figure><img id="fig1-ch3" class="img80" src="{{ site.baseurl }}/content/images/pg24.jpg" alt=""/>
   <figcaption><em>Figure 1. Francisco J. Mendiz&#xE1;bal, Cerro Rico and Villa Imperial de Potos&#xED; with reservoirs supplying water to mills,</em> c.<em>1755&#x2013;75 (courtesy of Museo del Ej&#xE9;rcito, Toledo, Spain).</em></figcaption></figure>
   <p>The introduction of mercury amalgamation caused Potos&#xED; to boom on a scale never before seen in world history. Cerro Rico silver flowed into ships&#x2019; holds in the form of brick-sized bars (<a href="#fig5-ch3">Figure 5</a>) and, after 1574, coins, the famous pieces of eight that lubricated world trade, particularly between Europe and Asia (see &#x2018;Piece of Eight&#x2019; in this volume). Peru&#x2019;s viceroy Francisco de Toledo (1569&#x2013;80) is rightly credited and blamed for this quasi-industrial transformation of Potos&#xED;, attested to by soaring tax returns and Spanish government spending. Production peaked in 1592, after which the Cerro Rico began to lurch along in stair-step decline, a trend reversed only in the 1730s (<a href="#fig6-ch3">Figure 6</a>).</p>
-  <figure><img id="fig2-ch3" class="img70" src="images/pg25-1.jpg" alt=""/>
+  <figure><img id="fig2-ch3" class="img70" src="{{ site.baseurl }}/content/images/pg25-1.jpg" alt=""/>
   <figcaption><em>Figure 2. &#x2018;These Indians are</em> guayrando&#x2019;, c.<em>1603 (courtesy of the Hispanic Society of America, New York).</em></figcaption></figure>
-  <figure><img id="fig3-ch3" class="img80" src="images/pg25-2.jpg" alt=""/>
+  <figure><img id="fig3-ch3" class="img80" src="{{ site.baseurl }}/content/images/pg25-2.jpg" alt=""/>
   <figcaption><em>Figure 3. The Cerro Rico with a water-powered stamp mill and amalgamation bins in the foreground,</em> c.<em>1603 (courtesy of the Hispanic Society of America, New York).</em></figcaption></figure>
-  <figure><img id="fig4-ch3" class="img100" src="images/pg26-1.jpg" alt=""/>
+  <figure><img id="fig4-ch3" class="img100" src="{{ site.baseurl }}/content/images/pg26-1.jpg" alt=""/>
   <figcaption><em>Figure 4. Detail from Gaspar Miguel de Berr&#xED;o showing refining mills along the Ribera gulch, 1758 (courtesy of Museo Colonial Charcas, Sucre, Bolivia; photo by X.M. Lane).</em></figcaption></figure>
-  <figure><img id="fig5-ch3" class="img80" src="images/pg26-2.jpg" alt=""/>
+  <figure><img id="fig5-ch3" class="img80" src="{{ site.baseurl }}/content/images/pg26-2.jpg" alt=""/>
   <figcaption><em>Figure 5. A</em> c.<em>40 kg Potos&#xED; silver bar from the 1622 wreck of the</em> Atocha <em>off the Florida Keys (courtesy of Daniel Frank Sedwick LLC, Auction 14, Lot 304).</em></figcaption></figure>
   <figure><img id="fig6-ch3" class="img100" src="{{ site.baseurl }}/content/images/pg27.jpg" alt=""/>
   <figcaption><em>Figure 6. Potos&#xED;&#x2019;s registered silver production (yellow) and mint production (red) from discovery in 1545 to 1821.</em></figcaption></figure>
@@ -57,18 +55,24 @@ weight: 3
   <p>The second viceroy to visit Potos&#xED; was also the archbishop of nearby Charcas, Don Diego Morcillo Rubio de Au&#xF1;&#xF3;n. Local painter Melchor P&#xE9;rez Holgu&#xED;n memorialised the event with a huge 1716 canvas that now hangs in Madrid&#x2019;s Museo de Am&#xE9;rica (<a href="#fig16-ch3">Figure 16</a>). This gift to Philip V of Bourbon was matched in a more sacred vein by the archbishop-viceroy Morcillo, who commissioned a massive silver pedestal in the shape of the Cerro Rico, which he sent home to Spain. It now supports a statue of the Virgin of Charity in Villarrobledo, a small town in the province of Albacete, La Mancha (<a href="#fig17-ch3">Figure 17</a>).</p>
   <p>With the Bourbon reforms of the 18th century, which included the halving of the severance tax from a fifth to a tenth (1736), creation of a savings bank (1747) and mit&#x2019;a reform (<em>c.</em>1750), the Cerro Rico began a long but slow recovery. A new mint opened in 1773, outfitted with state-of-the-art equipment, and advice on mining and refining was sought all over Northern Europe. Rationalisation of mining and refining entailed a new, less organic vision of the Cerro Rico, as revealed in a 1772 diagram purporting to &#x2018;square the circles&#x2019; and get to the bottom of the mountain (<a href="#fig18-ch3">Figure 18</a>).</p>
   <p>The Bourbon reforms paid off, although at great human cost. Production soared into the 1790s as mit&#x2019;a workers laboured much harder than in the past, their ore quotas set higher and higher, and the rate of mercury consumption in the refineries fouled more water and air than at any time since the late 16th century. New technologies and more punishing work regimes could not solve all problems, however, and as the Cerro Rico&#x2019;s mines grew deeper, they grew ever more expensive to work, more prone to flooding, cave-ins and simply playing out. The great Andean insurrection of the early 1780s spared the Imperial Villa of Potos&#xED;, but it severely disrupted the mit&#x2019;a and ordinary supply chains.</p>
-  <figure><img id="fig15-ch3" class="img60" src="images/pg37-1.jpg" alt=""/>
+  <figure><img id="fig15-ch3" class="img60" src="{{ site.baseurl }}/content/images/pg37-1.jpg" alt=""/>
   <figcaption><em>Figure 15. The Virgin of the Cerro Rico of Potos&#xED; (</em>c.<em>1680; courtesy of Casa Nacional de la Moneda, Potos&#xED;; photo by K. Lane).</em></figcaption></figure>
   <p>By 1800, the city was in crisis again, facing drought on top of everything else. Mining continued in spurts, but by the time independence stirrings began in 1809, the Cerro Rico was nearly moribund. Rebels invaded from Buenos Aires in 1814, only to be driven out by royalists soon after, both groups sacking and pillaging the city, mint and rural estates. When Sim&#xF3;n Bol&#xED;var finally reached Potos&#xED; in 1825, the city breathed a sigh of relief. The Liberator climbed to the top of the Cerro Rico to declare his work finished. South America was free.</p>
-  <figure><img id="fig16-ch3" class="img100" src="images/pg37-2.jpg" alt=""/>
+  <figure><img id="fig16-ch3" class="img100" src="{{ site.baseurl }}/content/images/pg37-2.jpg" alt=""/>
   <figcaption><em>Figure 16. Melchor P&#xE9;rez Holgu&#xED;n, Entry of the Archbishop-Viceroy Morcillo, 1716 (courtesy of the Museo de Am&#xE9;rica, Madrid, Spain).</em></figcaption></figure>
   <figure><img id="fig17-ch3" class="img60" src="{{ site.baseurl }}/content/images/pg38.jpg" alt=""/>
   <figcaption><em>Figure 17. The Virgin of Charity on a silver pedestal fashioned in Potos&#xED; or La Plata, dated 1719 (courtesy of Santuario de la Virgen de la Caridad, Villarrobledo, Albacete, Spain).</em></figcaption></figure>
-  <figure><img id="fig18-ch3" class="img100" src="images/pg39-1.jpg" alt=""/>
+  <figure><img id="fig18-ch3" class="img100" src="{{ site.baseurl }}/content/images/pg39-1.jpg" alt=""/>
   <figcaption><em>Figure 18. The Cerro Rico of Potos&#xED;, 1772, with modern Berr&#xED;o adit at left (courtesy of the Archivo General de Indias, Spain).</em></figcaption></figure>
-  <figure><img id="fig19-ch3" class="img100" src="images/pg39-2.jpg" alt=""/>
+  <figure><img id="fig19-ch3" class="img100" src="{{ site.baseurl }}/content/images/pg39-2.jpg" alt=""/>
   <figcaption><em>Figure 19. Medal commemorating Sim&#xF3;n Bol&#xED;var&#x2019;s arrival in Potos&#xED;, 1825 (courtesy of Daniel Frank Sedwick LLC, auction #23, lot 1479).</em></figcaption></figure>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-050" href="#footnote-050-backlink">1</a></sup> F. Guaman Poma de Ayala, <em>El primer nueva cor&#xF3;nica y buen gobierno</em> (1615).</p>
+  <p class="footnote"><sup><a id="footnote-049" href="#footnote-049-backlink">2</a></sup> J. Ogilby, <em>America</em> (London, 1671).</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Arz&#xE1;ns de Ors&#xFA;a y Vela, B. (1965) <em>Historia de la Villa Imperial de Potos&#xED;</em>, 3 vols., edited by L. Hanke and G. Mendoza (Providence, RI: Brown University Press).</p>
   <p class="further-reading-ref">Bakewell, P.J. (1985) <em>Miners of the Red Mountain: Indian Labor in Potos&#xED;, 1545&#x2013;1650</em> (Albuquerque, NM: University of New Mexico Press).</p>
@@ -82,7 +86,3 @@ weight: 3
   <p class="further-reading-ref">Mangan, J. (2005) <em>Trading Roles: Gender, Ethnicity, and the Urban Economy in Colonial Potos&#xED;</em> (Durham, NC: Duke University Press).</p>
   <p class="further-reading-ref">Tandeter, E. (1993) <em>Coercion and Market: Silver Mining in Colonial Potos&#xED;, 1692&#x2013;1826</em> (Albuquerque, NM: University of New Mexico Press).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-050" href="#footnote-050-backlink">1</a></sup> F. Guaman Poma de Ayala, <em>El primer nueva cor&#xF3;nica y buen gobierno</em> (1615).</p>
-  <p class="footnote"><sup><a id="footnote-049" href="#footnote-049-backlink">2</a></sup> J. Ogilby, <em>America</em> (London, 1671).</p>
-  

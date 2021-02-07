@@ -1,12 +1,10 @@
 ---
 author: Andrés Gutiérrez Usillos
 weight: 12
+hero: pg87
 ---
 
-<div class="ch-opener" id="ch12">
-  <p class="CT">MEXICAN PORTRAIT</p>
-  <p class="Author-Heading">Andr&#xE9;s Guti&#xE9;rrez Usillos</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch12">
   <figure><img id="fig1-ch12" class="img40" src="{{ site.baseurl }}/content/images/pg87.jpg" alt=""/>
   <figcaption><em>Figure 1. Portrait of Lady Mar&#xED;a Luisa de Toledo and anonymous native companion. Attributed to Antonio Rodr&#xED;guez Beltr&#xE1;n, Viceroyalty of New Spain,</em> c.<em>1670. Oil on canvas, 209 &#xD7; 128 cm (courtesy of Museo de Am&#xE9;rica (MAM 2016.06.01), on loan from the Museo Nacional del Prado; photo by J. Otero).</em></figcaption></figure>
   <p>Recently recovered from the storerooms of the Prado Museum and exhibited at the Museum of America in Madrid, this intriguing baroque portrait reflects, on the one hand, the courtesan intimacy of two women, the one a noble Hispanic <em>infanta</em> who has just come of age as a lady, and the other a native Chichimec <em>enana</em> or dwarf from the northern frontier region of New Spain. At the same time, the physical attributes of the two women distance them by means of a series of codes that announce their identities and likely biographies. The disquieting gazes and finer details of the painting further awaken the curiosity of the spectator, inviting her to intuit the messages it guards.</p>
@@ -24,7 +22,12 @@ weight: 12
   <p>The portrait was among the personal possessions that accompanied our lady until her death in 1707 in the Convent of Constantinople in Madrid. Her trousseau included hundreds of objects from the two Indies, East and West. Objects from the East Indies or Asia, shipped by the Manila galleon to New Spain or Mexico, included porcelains, Japanese and Chinese furniture and folding panels, silk and cotton fabrics, and lacquers. From the West Indies or Americas, her collection included furniture from Oaxaca; ceramics from Guadalajara, Panama and Chile; silverwork from Cuba and Nicaragua; and of course paintings made in Mexico. It is, then, thanks to our lady&#x2019;s cloistered collection, for centuries mishandled and neglected by Madrid&#x2019;s art museums, that we now know something about this rare portrait.</p>
   <figure><img id="fig3-ch12" class="img50" src="{{ site.baseurl }}/content/images/pg90.jpg" alt=""/>
   <figcaption><em>Figure 3. Detail with &#x2018;trident sign&#x2019; or separation of the middle and ring fingers.</em></figcaption></figure>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-024" href="#footnote-024-backlink">1</a></sup> J. G&#xE1;lvez et al., <em>Libro de inventario del Museo de la Trinidad</em> (1856), registro no. 959.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">&#xC1;lvarez Lopera, J. (2009) <em>El Museo de la Trinidad: historia, obras y documentos, 1838&#x2013;1872</em> (Madrid: Museo Nacional del Prado).</p>
   <p class="further-reading-ref">Bouza, F. (1993) <em>Locos, enanos y hombres de placer en la corte de los Austrias</em> (Madrid: Ediciones Temas de Hoy).</p>
@@ -33,6 +36,3 @@ weight: 12
   <p class="further-reading-ref">Mena, M. (1986) <em>Monstruos, enanos y bufones en la Corte de los Austrias</em> (Madrid: Amigos del Museo del Prado).</p>
   <p class="further-reading-ref">Moreno Villa, J. (1939) <em>Locos, enanos, negros y ni&#xF1;os palaciegos: gente de placer que tuvieron los Austrias en la Corte espa&#xF1;ola desde 1563 a 1700</em> (Mexico: La Casa de Espa&#xF1;a en M&#xE9;xico).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-024" href="#footnote-024-backlink">1</a></sup> J. G&#xE1;lvez et al., <em>Libro de inventario del Museo de la Trinidad</em> (1856), registro no. 959.</p>
-  

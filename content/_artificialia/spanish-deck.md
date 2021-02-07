@@ -1,12 +1,10 @@
 ---
 author: Jorge Cañizares-Esguerra
 weight: 10
+hero: pg78
 ---
 
-<div class="ch-opener" id="ch10">
-  <p class="CT">SPANISH DECK</p>
-  <p class="Author-Heading">Jorge Ca&#xF1;izares-Esguerra</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch10">
   <p>Today the French deck of 52 cards (made of series of 13 cards of diamonds, clubs, spades and hearts, including kings, queens and jacks) is the default deck. In the early modern period, however, the default was the &#x2018;Spanish&#x2019; deck. This consisted of 48 cards made of series of 12 cards of cups, coins, sticks (cudgels) and swords, including kings, knights (horse) and squires. The Iberian deck came straight from the medieval Islamic Mediterranean, along with optics, astrolabes, Galenic medicine and Aristotle. The <em>na&#x2019;ib</em> and the <em>malik</em> of the Islamic suit begot the viceroy and the king in the Spanish card deck. The <em>na&#x2019;ib thani</em> yielded the squire. The original Islamic cards did not carry the images of the characters in the deck. The Spanish sword emerged from the Arab scimitar and the cudgel from the shepherd staff. The cup and the coin did not change; socialising drinks and trade were the common currency of Islamic and Christian Mediterranean cultures. One distinct peculiarity of the Islamic deck is that the knights and kings appeared as names in classical Arabic calligraphy, not human representations.</p>
   <p>Theology also shaped the Iberian deck, for playing cards in the Hispanic monarchy belonged in larger political and theological worlds. The state monopoly on playing-card decks was first introduced in Spain in the 1550s by Philip II as a tax on vice. More importantly, cards served as metaphors for theology. Preachers used the trope of card tricks to explain transubstantiation. Christ as card player, betting his own life in a game of cards with Satan, illustrated the mystery of salvation. A tradition of <em>villancicos</em> or carols and <em>autos sacramentales</em> (a literary genre of morality plays) emerged that had Christ rising from the death triumphant after a game of cards with Satan and Man. One <em>auto</em> by Luis Mej&#xED;a de la Cerda, published in 1625, had the triumphant resurrected Christ surrounded by a deck of 48 cards in the shape of a chain of the Hapsburg Golden Fleece.</p>
   <figure><img id="fig1-ch10" class="img60" src="{{ site.baseurl }}/content/images/pg78.jpg" alt=""/>
@@ -19,16 +17,18 @@ weight: 10
   <p>By 1593, Aztec lords had incorporated Christian and classical historiographies into their annals, along with new Iberian legal forms of paperwork, including wills, petitions, <em>probanzas</em> (submissions of evidence) and property deeds. The lords, to be sure, did not exclude playing cards from the new arsenal of manuscript and print culture they chose to consume. Printers in Mexico offered Christian Aztec lords striking images of preconquest Aztec <em>tlatoque</em> and <em>mitotes</em> (pole flyers and dancers in religious festivals) for ludic consumption. Printed cards of dragons, queens and pictograms and logograms of Aztec lords and religious rituals suggest a lively culture of sociability among native lords in Mexico and Peru.</p>
   <figure><img id="fig3-ch10" class="img60" src="{{ site.baseurl }}/content/images/pg80.jpg" alt=""/>
   <figcaption><em>Figure 3. Royal certificate restoring 12,000 gold pesos to Hern&#xE1;n Cort&#xE9;s for fines paid relative to card playing. Marzo 11 1530-AGI PATRONATO,16, N. 2, R. 20&#x2013;1 (public domain).</em></figcaption></figure>
-  <figure><img id="fig4-ch10" class="img40" src="images/pg81-1.jpg" alt=""/>
+  <figure><img id="fig4-ch10" class="img40" src="{{ site.baseurl }}/content/images/pg81-1.jpg" alt=""/>
   <figcaption><em>Figure 4. Dragon (detail). Mexican cards &#x2013; printing tests of cards made in Mexico, corresponding to the contract of Alonso Martinez de Orteguilla (F. Flores, 1583). AGI-MP-MEXICO 73-1r (public domain).</em></figcaption></figure>
-  <figure><img id="fig5-ch10" class="img40" src="images/pg81-2.jpg" alt=""/>
+  <figure><img id="fig5-ch10" class="img40" src="{{ site.baseurl }}/content/images/pg81-2.jpg" alt=""/>
   <figcaption><em>Figure 5. Printing tests of cards made in Mexico, corresponding to the contract of Alonso Martinez de Orteguilla (F. Flores, 1583). AGI-MP-MEXICO 73-4r (public domain).</em></figcaption></figure>
-  <figure><img id="fig6-ch10" class="img40" src="images/pg81-3.jpg" alt=""/>
+  <figure><img id="fig6-ch10" class="img40" src="{{ site.baseurl }}/content/images/pg81-3.jpg" alt=""/>
   <figcaption><em>Figure 6. Moctezuma and Cuauht&#xE9;moc cards. Printing tests of cards made in Mexico, corresponding to the contract of Alonso Martinez de Orteguilla (F. Flores, 1583). AGI-Mapas, Mexico 73-4r (public domain).</em></figcaption></figure>
-  <div class="further-reading-container">
+  
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Cashner, A.A. (2014) &#x2018;Playing cards at the eucharistic table: Music, theology, and society in a Corpus Christi Villancico from colonial Mexico, 1628&#x2019;, <em>Journal of Early Modern History,</em> 18: 383&#x2013;419.</p>
   <p class="further-reading-ref">de Covarrubias, P. (1543) <em>Remedio de jugadores</em> (Barcelona).</p>
   <p class="further-reading-ref">Fajardo, F.L. (1603) <em>Fiel Desenga&#xF1;o contra la ociosidad y los juegos: utilisisimo a los confesores, penitentes y justicias y dem&#xE1;s a cuyo cargo est&#xE1; limpiar de vagabundos, tah&#xFA;res y fulleros la Republica Cristiana</em> (Madrid).</p>
 </div>
-  

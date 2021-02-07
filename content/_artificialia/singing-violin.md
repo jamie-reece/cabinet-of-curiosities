@@ -1,12 +1,10 @@
 ---
 author: Jorge Cañizares-Esguerra
 weight: 14
+hero: pg99-2
 ---
 
-<div class="ch-opener" id="ch14">
-  <p class="CT">SINGING VIOLIN</p>
-  <p class="Author-Heading">Jorge Ca&#xF1;izares-Esguerra</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch14">
   <figure><img id="fig1-ch14" class="img40" src="{{ site.baseurl }}/content/images/pg97.jpg" alt=""/>
   <figcaption><em>Figure 1. Francisco Solano, &#x2018;Sun of Peru&#x2019;, as violinist. Pedro Rodr&#xED;guez Guill&#xE9;n,</em> Sol y a&#xF1;o feliz del Per&#xFA; San Francisco Solano, apostol y patron universal de dicho reyno <em>(Madrid, 1735; public domain).</em></figcaption></figure>
   <p>When Francisco Solano died at the Franciscan convent in Lima, flocks of birds surrounded his body. Music filled the halls of the cloister. Solano&#x2019;s most distinguished hagiographer, the Peruvian Creole Diego de Cordova Salinas, concluded in 1643 that Solano, who had converted Indians in Paraguay with his violin, was a walking tree of paradise, on which birds perched to sing. Solano was music.</p>
@@ -15,12 +13,12 @@ weight: 14
   <figure><img id="fig2-ch14" class="img60" src="{{ site.baseurl }}/content/images/pg98.jpg" alt=""/>
   <figcaption><em>Figure 2. Francis of Lima and Assisi. Lima as Rome. Pedro de Alva y Astorga,</em> Natur&#xE6; prodigium grati&#xE6; portentum: hoc est Seraphici P. N. Francisci vit&#xE6; acta ad Christi D. N. <em>(Madrid, 1651; public domain).</em></figcaption></figure>
   <p>The manner of Solano&#x2019;s arrival in Peru was miraculous. He made the passage in 1589 on a ship with a cargo of slaves coming from Cartagena via Panama. Shipwrecked off the coast of the Colombian island of Gorgona, to the south of Buenaventura, the crew and the Spaniards on board scrambled onto the beach, but Solano stayed behind with the slaves. By dint of his preternatural control of the waters, Francisco held the broken hull from sinking for three whole days, until the slaves were finally rescued by the survivors. When a passing ship finally picked them up from the island three months later, Solano had fed the survivors with hundreds of willing crabs, who daily crawled into his cowl.</p>
-  <figure><img id="fig3-ch14" class="img50" src="images/pg99-1.jpg" alt=""/>
+  <figure><img id="fig3-ch14" class="img50" src="{{ site.baseurl }}/content/images/pg99-1.jpg" alt=""/>
   <figcaption><em>Figure 3. Solano, Peruvian apostle of Indians and Africans. Detail of frontispiece, Alonso Brice&#xF1;o.</em> Prima pars celebriorum controuersiarum in primum sententiarum Ioannis Scoti <em>(Madrid, 1642; public domain).</em></figcaption></figure>
   <p>Upon arrival in the Viceroyalty of Peru, Solano was sent to the Andean village of Tucum&#xE1;n in what is today Argentina, where his miraculous deeds continued. Birds would follow him. A bull that had killed two Indians in the bullring before breaking loose encountered Solano at the town plaza and became his pet.</p>
   <p>Solano devoted much of his time in Tucum&#xE1;n singing to the natives of nearby Paraguay. By infused knowledge, he immediately learned many indigenous languages and preached to the natives in their tongues. The day an army of 6,000 Indians surrounded Tucum&#xE1;n, he pacified a bull; the Indians put down their arms and surrendered to the power of Christ. Solano returned from Tucum&#xE1;n and Paraguay to Lima, walking with cilices on his body and nails on his soles. He headed north to Trujillo in Peru to tend the emerging communities of slaves and Indians who laboured in the sugar mills of the Pacific coast. Circa 1600 he accurately predicted the devastating earthquake that was to wipe out the city of Trujillo in 1619.</p>
   <p>But it was in the Nineveh that was Lima where he performed most of his salvific work. Solano was a preacher who did not just pacify birds, bulls, African slaves and Paraguayan Indians. He also had the ability to terrify Spanish, Portuguese and Creole townsmen or <em>vecinos</em>. Solano was the Savonarola of Lima. He would walk for days on the streets of the city, denouncing the rising phenomenon of concubinage. His campaigns netted the church dozens of converted, terrified mixed-race couples living in sin, who now willingly took their sacramental vows of holy matrimony. In his decade of walking about Lima he became known as a prophet, a patriarch, a virgin and a martyr. He would levitate while in trance. He would cure fatally wounded birds and dying children.</p>
-  <figure><img id="fig4-ch14" class="img50" src="images/pg99-2.jpg" alt=""/>
+  <figure><img id="fig4-ch14" class="img50" src="{{ site.baseurl }}/content/images/pg99-2.jpg" alt=""/>
   <figcaption><em>Figure 4. Solano, the Peruvian St Francis, turns a rampaging, murderous bull into a pet. Anonymous,</em> Francisco Solano <em>(1652, Museo de Santa Clara, Bogot&#xE1;; public domain).</em></figcaption></figure>
   <p>When he died, his musky, flowery-scented, uncorrupted body was buried under the altar of the Franciscan church, which within a week became a shrine. When Cordova Salinas described the shrine as one of the jewels of the new Assisi that was Lima, he gave an account of what appears to have been the greatest sacred curing spot and apothecary of South America. The shrine was crowded with discarded crutches and bandages and replicas of copper heads, legs and arms. It was a holy sanctuary of healing for the peregrinating ill. They came from as far away as Trujillo, Tucum&#xE1;n, Paraguay, Santiago de Chile, M&#xE1;laga and C&#xF3;rdoba. There were crowds in the shrine, fighting over samples of the ground of his burial and the oil of the seven lamps that burnt perpetually in his tomb.</p>
   <figure><img id="fig5-ch14" class="img100" src="{{ site.baseurl }}/content/images/pg100.jpg" alt=""/>
@@ -31,18 +29,20 @@ weight: 14
   <p>If St Francis was as a second Christ in medieval Christendom, Solano became a second St Francis in early modern Peru. Solano&#x2019;s ability to sing to birds transformed him into a musical symbol of conversion through sweet persuasion. If Solano was capable of attracting and taming birds and bulls, he was equally capable of converting Indians and African slaves. Upon his death, this walking Peruvian violin became a sacred apothecary. The curative power of his relics attracted to his chapel-pharmacy in Lima hundreds of limping ill who consumed his body and its aura as sacred <em>materia medica</em>. The fame of the curative power of his bones spread across the ocean. Solano&#x2019;s fame was Lima&#x2019;s fortune. If Francisco Solano was a new St Francis, then Lima, the city of the kings of Peru, was a new Rome. Francisco&#x2019;s Peruvian fame earned him beatification first and then canonisation in Rome. Holy relics of the singing violin of Peru who attracted birds, Indians and slaves moved to altars in Flanders and Cologne, where they can still be found today.</p>
   <figure><img id="fig6-ch14" class="img60" src="{{ site.baseurl }}/content/images/pg101.jpg" alt=""/>
   <figcaption><em>Figure 6. Solano and March on their Flemish altar (1728). Pieter Balthazar Bouttats and Michiel van der Voort,</em> Prospectus Altaris sub Canonizationis Solemniis SS Jacobi &#xE0; Marchia et Francisci Solani Ordinis Minorum Erecti Antverpiae in Ecclesia FF Minorum Recollectorum <em>(Rijksmuseum, Amsterdam, RP-P-OB-82.786; public domain).</em></figcaption></figure>
-  <figure><img id="fig7-ch14" class="img40" src="images/pg102-1.jpg" alt=""/>
+  <figure><img id="fig7-ch14" class="img40" src="{{ site.baseurl }}/content/images/pg102-1.jpg" alt=""/>
   <figcaption><em>Figure 7. Extant relic of Solano in Flanders (Museum De Mindere, Sint-Truiden, Belgium, MVM/OFM/R414; public domain).</em></figcaption></figure>
-  <figure><img id="fig8-ch14" class="img60" src="images/pg102-2.jpg" alt=""/>
+  <figure><img id="fig8-ch14" class="img60" src="{{ site.baseurl }}/content/images/pg102-2.jpg" alt=""/>
   <figcaption><em>Figure 8. Cologne treatise on March and Solano as Joshua and Caleb (public domain).</em></figcaption></figure>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-023" href="#footnote-023-backlink">1</a></sup> <em>Zwey Neu-Testamentische Josue und Caleb: d.i. Lobrede von Jacob de Marchia u. Franciscus Solanus</em> (Cologne, 1728).</p>
+  <p class="footnote"><sup><a id="footnote-022" href="#footnote-022-backlink">2</a></sup> Num. 13.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">G&#xE1;lvez Pe&#xF1;a, C.M. (2008) &#x2018;El carro de Ezequiel: la monarqu&#xED;a hispana de fray Buenaventura de Salinas y C&#xF3;rdova&#x2019;, <em>Hist&#xF3;rica,</em> 32 (1): 39&#x2013;75.</p>
   <p class="further-reading-ref">G&#xE1;lvez Pe&#xF1;a, C.M. (2011) &#x2018;Sue&#xF1;os, profec&#xED;as, visiones y pol&#xED;tica en las cr&#xF3;nicas lime&#xF1;as del siglo XVII&#x2019;, in <em>Los sue&#xF1;os en la cultura iberoamericana, siglos XVI&#x2013;XVIII,</em> edited by S.V. Rose, P. Schmidt, and G. Weber (Seville: Consejo Superior de Investigaciones Cient&#xED;ficas).</p>
   <p class="further-reading-ref">Jouve-Mart&#xED;n, J.R. (2004) &#x2018;En olor de santidad: hagiograf&#xED;a, cultos locales y escritura religiosa en Lima, siglo XVII&#x2019;, <em>Colonial Latin American Review</em>, 13 (2): 181&#x2013;98.</p>
   <p class="further-reading-ref">Rubial, A. (2006) <em>Profetisas y solitarios: espacios y mensajes de una religi&#xF3;n dirigida por ermita&#xF1;os y beatas laicos en las ciudades de Nueva Espa&#xF1;a</em> (Mexico City: Fondo de Cultura Econ&#xF3;mica).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-023" href="#footnote-023-backlink">1</a></sup> <em>Zwey Neu-Testamentische Josue und Caleb: d.i. Lobrede von Jacob de Marchia u. Franciscus Solanus</em> (Cologne, 1728).</p>
-  <p class="footnote"><sup><a id="footnote-022" href="#footnote-022-backlink">2</a></sup> Num. 13.</p>
-  

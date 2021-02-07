@@ -5,7 +5,6 @@
     <meta charset="utf-8">
     <title>{{ page.title }} - {{ site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-    {% include externals.html %}
   </head>
   <body>
     {% if page.title != "Home" %}
@@ -16,7 +15,7 @@
     </main>
     {% include footer.html %}
     {% if page.layout == "chapter" %}
-    <script src="/assets/js/further-reading.js"></script>
+    <!-- <script src="/assets/js/further-reading.js"></script> -->
     {% endif %}
   </body>
 </html>

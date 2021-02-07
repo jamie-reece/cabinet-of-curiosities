@@ -1,12 +1,10 @@
 ---
 author: Mark Thurner and Juan Pimentel
 weight: 16
+hero: pg115
 ---
 
-<div class="ch-opener" id="ch16">
-  <p class="CT">CREOLE CABINET</p>
-  <p class="Author-Heading">Juan Pimentel and Mark Thurner</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch16">
   <figure><img id="fig1-ch16" class="img100" src="{{ site.baseurl }}/content/images/pg115.jpg" alt=""/>
   <figcaption><em>Figure 1. Fa&#xE7;ade of Goyeneche Palace in Madrid, premises of the Royal Academy of Fine Arts of San Fernando and the Royal Cabinet of Natural History (photographic reproduction courtesy of CSIC).</em></figcaption></figure>
   <p>A cabinet or museum consists of many objects and works, but it too is an object and work with a history. The Royal Cabinet of Natural History, established in Madrid in 1776, is remarkable not only for its Creole origins and royal status but also for its afterlife as a lost project that spawned several museums and whose scattered traces continue to beguile us. Here we sketch not only the actual historical formation of the cabinet that would become a museum but also the hypothetical history that could have been and was not.</p>
@@ -25,7 +23,12 @@ weight: 16
   <p>But the halls of the Prado in November are not the streets of Pamplona in July. What was threatened here was not only the spectator&#x2019;s aesthetic expectations but more generally art history&#x2019;s sovereign reign over the halls of the Prado. Blanco&#x2019;s intervention thus reminds us that the trace of Franco D&#xE1;vila&#x2019;s &#x2018;lost&#x2019; cabinet may yet lead us into a future where the history of science and the history of art once again share the same roof.</p>
   <figure><img id="fig3-ch16" class="img100" src="{{ site.baseurl }}/content/images/pg119.jpg" alt=""/>
   <figcaption><em>Figure 3.</em> The Creole Cabinet Haunts the Prado Museum, Historias Naturales, <em>M.&#xC1;. Blanco (Museo Nacional del Prado, 2013&#x2013;2014; photo by M. Thurner).</em></figcaption></figure>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><span class="ePub-SUP"><a id="footnote-020" href="#footnote-020-backlink">1</a></span> M. Adanson, &#x2018;Prologue&#x2019;, in P. Franco D&#xE1;vila and J-P. Rom&#xE9; de L&#x2019;Isle, <em>Catalogue syst&#xE9;matique et raisonn&#xE9; des curiosit&#xE9;s de la nature et de l&#x2019;art, qui composent le Cabinet de M. Davila&#x2026;,</em> (Paris: Briasson, 1767), 2:vi.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Blanco, M.&#xC1;. (2013) <em>Historias Naturales</em> (Madrid: Museo Nacional del Prado).</p>
   <p class="further-reading-ref">Museo del Prado (n.d.) <em>Historias Naturales: un provecto de Miguel &#xC1;ngel Blanco</em> (Madrid), <a href="https://www.museodelprado.es/actualidad/exposicion/historias-naturales-un-proyecto-de-miguel-angel/860d26d4-8793-4737-be9f-e744e5c2daf4">https://www.museodelprado.es/actualidad/exposicion/historias-naturales-un-proyecto-de-miguel-angel/860d26d4-8793-4737-be9f-e744e5c2daf4</a>.</p>
@@ -36,6 +39,3 @@ weight: 16
   <p class="further-reading-ref">S&#xE1;nchez-Valero, M., J.S. Almaz&#xE1;n, J. Mu&#xF1;oz and F. Yag&#xFC;e (2009) <em>El gabinete perdido. Pedro Franco D&#xE1;vila y la historia natural del Siglo de las Luces</em> (Madrid: CSIC).</p>
   <p class="further-reading-ref">Thurner, M. (2015) &#x2018;In the museum of the museum&#x2019;, <em>Museum Worlds,</em> vol. 3, 105&#x2013;27.</p>
 </div>
-
-  <p class="footnote"><span class="ePub-SUP"><a id="footnote-020" href="#footnote-020-backlink">1</a></span> M. Adanson, &#x2018;Prologue&#x2019;, in P. Franco D&#xE1;vila and J-P. Rom&#xE9; de L&#x2019;Isle, <em>Catalogue syst&#xE9;matique et raisonn&#xE9; des curiosit&#xE9;s de la nature et de l&#x2019;art, qui composent le Cabinet de M. Davila&#x2026;,</em> (Paris: Briasson, 1767), 2:vi.</p>
-  

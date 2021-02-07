@@ -1,12 +1,10 @@
 ---
 author: Sabine Hyland and William P. Hyland
 weight: 17
+hero: pg123
 ---
 
-<div class="ch-opener" id="ch17">
-  <p class="CT">MODERN QUIPU</p>
-  <p class="Author-Heading">Sabine Hyland and William P. Hyland</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch17">
   <figure><img id="fig1-ch17" class="img50" src="{{ site.baseurl }}/content/images/pg121.jpg" alt=""/>
   <figcaption><em>Figure 1. Yacapar</em> quipu <em>(photo by W.P. Hyland).</em></figcaption></figure>
   <p>Deep in the heart of an Andean village, hidden in a wooden box in a secret chamber under the altar of the colonial church, lie two <em>quipus</em>, the knotted and coloured cords used as &#x2018;writing&#x2019; and regarded as sacred by the villagers who guard them today. These mysterious cords are not the precolonial creations of the Incas that may be encountered in museums. Instead, they were created in the 1780s as revolutionary epistles sent from one community to another, calling for a revolt in the name of &#x2018;the Inca emperor&#x2019;, the recently executed Jos&#xE9; Gabriel Condorcanqui, known as T&#xFA;pac Amaru II. In these two colourful and sensuous texts, we see the ancient and modern Andean art of quipu-making united with the worldwide revolutionary fervour of the late 18th century, making them in effect a pair of historical documents that testify to the regional and global dimensions of knowledge in a small Peruvian village. This piece will focus on one of these two epistles &#x2013; the Yacapar quipu, created during the festival of Corpus Christi in 1782 and signed with the lineage (<em>ayllu</em>) name of its creator, Ciriaco Flores of the neighbouring hamlet of San Mateo de Otao.</p>
@@ -26,7 +24,14 @@ weight: 17
   <p>The actual revolt began on 30 May 1783, when Felipe read out his proclamation of independence, commanded his followers to destroy all the bridges on the roads to Lima and captured and tried several Spanish loyalists. However, one of his captains betrayed him, imprisoning Felipe and sending word of the uprising to the local corregidor. The men of Collata, along with those of neighbouring Chaclla and Jicamarca fought to free their Inca leader, but to no avail. Felipe and other rebel leaders were brought back to Lima, where they were interrogated and tried. Felipe and his captain-general, Ciriaco Flores, were executed, while other leaders were flogged and exiled to Africa.</p>
   <p>From the over one thousand pages of testimony from the Spanish interrogations of the prisoners, we can ascertain when the Yacapar quipu was probably created, by whom and what it said. Spanish authorities questioned the prisoners relentlessly about the messages sent in the revolt, allowing us a glimpse into the quipu letters as well as the alphabetic ones. During the festival of Corpus Christi in 1782, Felipe and Ciriaco holed up in Ciriaco&#x2019;s farm outside of San Mateo de Otao, an annex of the village of Casta, which is adjacent to Collata. Ciriaco was a prosperous farmer and member of the Yacapar clan who had first met Felipe when the latter was repairing a saint&#x2019;s canopy in the Otao church. The two men had discussed revolution for years, but during this week in late June they planned their uprising, with Ciriaco swearing an oath of loyalty as captain-general of Felipe&#x2019;s army. Ciriaco was alphabetically illiterate, unable to read or write in Spanish, yet he created physical letters for the leaders of neighbouring towns, calling on them to revolt. It is apparent that the Yacapar quipu, signed with the name of Ciriaco&#x2019;s clan or ayllu affiliation, is one of the quipu letters that Ciriaco created at this time.</p>
   <p>It is instructive to see in Collata how the quipu form may have been used to mobilise villagers and convey ideals of equality and justice common to the Age of Revolution in Europe and the Americas. Likewise, and although extremely rare, it is heartening to know how carefully the villagers in Collata have actively preserved these two precious emissaries from that age.</p>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-019" href="#footnote-019-backlink">1</a></sup> F. de Graffigny, <em>Lettres d&#x2019;une p&#xE9;ruvienne</em> (1747).</p>
+  <p class="footnote"><sup><a id="footnote-018" href="#footnote-018-backlink">2</a></sup> R. di Sangro, <em>Lettera apologetica</em> (1751).</p>
+  <p class="footnote"><sup><a id="footnote-017" href="#footnote-017-backlink">3</a></sup> Archivo General de Indias, 1047, Uprising of Topa Inca Yupanqui in Huarochiri, 1783. Testimony of Thomas Palomino, June 11, 1783, frv. 285.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Brokaw, G. (2010) <em>A History of the Khipu</em> (Cambridge: Cambridge University Press).</p>
   <p class="further-reading-ref">Hyland, S. (2003) <em>The Jesuit and the Inca</em> (Ann Arbor, MI: University of Michigan Press).</p>
@@ -38,8 +43,3 @@ weight: 17
   <p class="further-reading-ref">Serulnikov, S. (2013) <em>Revolution in the Andes: The Age of T&#xFA;pac Amaru</em> (Durham, NC: Duke University Press).</p>
   <p class="further-reading-ref">Walker, C. (2014) <em>The Tupac Amaru Rebellion</em> (Cambridge, MA: Harvard University Press).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-019" href="#footnote-019-backlink">1</a></sup> F. de Graffigny, <em>Lettres d&#x2019;une p&#xE9;ruvienne</em> (1747).</p>
-  <p class="footnote"><sup><a id="footnote-018" href="#footnote-018-backlink">2</a></sup> R. di Sangro, <em>Lettera apologetica</em> (1751).</p>
-  <p class="footnote"><sup><a id="footnote-017" href="#footnote-017-backlink">3</a></sup> Archivo General de Indias, 1047, Uprising of Topa Inca Yupanqui in Huarochiri, 1783. Testimony of Thomas Palomino, June 11, 1783, frv. 285.</p>
-  

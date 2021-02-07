@@ -1,12 +1,10 @@
 ---
 author: Miruna Achim
 weight: 19
+hero: pg136
 ---
  
-<div class="ch-opener" id="ch19">
-  <p class="CT">XILONEN</p>
-  <p class="Author-Heading">Miruna Achim</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch19">
   <figure><img id="fig1-ch19" class="img80" src="{{ site.baseurl }}/content/images/pg135.jpg" alt=""/>
   <figcaption><em>Figure 1. Bust of an Aztec Priestess. Alexander von Humboldt,</em> Vues des cordill&#xE8;res et monuments des peuples indig&#xE8;nes de l&#x2019;Am&#xE9;rique, <em>plate 1 (Paris: Schoell, 1810&#x2013;13).</em></figcaption></figure>
   <figure><img id="fig2-ch19" class="img100" src="{{ site.baseurl }}/content/images/pg136.jpg" alt=""/>
@@ -21,7 +19,15 @@ weight: 19
   <p>For Humboldt, the style of American antiquities came closest to that of the ancient Egyptians and, to some extent, to that of Mongols and Tartars. This was not simply because preconquest antiquities resembled morphologically the antiquities of ancient Egypt or China. More importantly, it was the political and religious structures expressed in preconquest antiquities that justified their being placed together with those of Egypt and the Orient. Collectively, preconquest vestiges functioned as an index of the stage of civilisation reached by America&#x2019;s ancient peoples, comparable to the stage reached by the ancient Egyptians. Throughout his writings, Humboldt abstained from concluding that Mexico would have been an Egyptian or an Asian colony in the New World. For him, analogy did not mean provenance. Rather, he used analogies &#x2013; of style, calendar systems or mythological, religious and political structures &#x2013; to construct an evolutionary scheme for the history of mankind. Resemblances might have been vestiges of a common &#x2018;Asian&#x2019; origin of New World civilisations, but Humboldt placed that origin very far back in time.</p>
   <p>Many of his contemporaries, however, were distrustful of or uncomfortable with the idea that anyone, short of Aryan races, could have constructed complex civilisations or produced sophisticated objects. Turning to putative skeletal and linguistic proof, they feverishly bolstered theories of Old World colonies in the Americas in the past, while making the case that Americans (south of the US border) still needed the guidance of European powers and, increasingly, the United States, if they were to succeed in the present. By the mid 19th century, style was being wielded as justification for a new round of imperialism in Africa and Asia and of neocolonialism in the Americas.</p>
   <p>Against such European and US cultural and political claims on Mexico&#x2019;s past and present, some Mexican intellectuals took charge of preconquest antiquities to argue for their autochthonous quality. Jos&#xE9; Fernando Ram&#xED;rez was one of the most vocal of them: as director of the National Museum of Mexico in the mid 19th century, he firmly maintained that Mexico&#x2019;s ancient past belonged to Mexico both materially and intellectually. In the context of the French Intervention (1863&#x2013;5), Ram&#xED;rez was instrumental in impeding the expatriation of the national collection to the Louvre. He was also one of a handful of Mexican politicians and intellectuals to travel east across the Atlantic. There, he visited some of Europe&#x2019;s most celebrated museums, including the British Museum, the Louvre, the princely collections in Berlin and the superb museum of Egyptian antiquities in Torino, and could therefore compare first-hand the antiquities of the Old World with those of the New. Upon his return to Mexico, he complained that &#x2018;those who do not want to grant America&#x2019;s unfortunate son any original thought explain the pyramids as an imitation of Egypt&#x2019;.<a id="footnote-002-backlink" href="#footnote-002"><sup>4</sup></a> For the rest of his life Ram&#xED;rez remained a staunch and mordant critic of all theories of Aryan colonies in the Americas and called for more locally sensitive approaches to the study of Mexico&#x2019;s past, which would bring into play codices, chronicles, indigenous languages and toponymics. In time, Humboldt&#x2019;s &#x2018;Aztec priestess&#x2019; would come to be identified with Chalchiuhtlicue, goddess of water, or with Xilonen, goddess of young corn. Both goddesses were typically represented with headdresses made of folded paper and decorated with amaranth seeds, but Xilonen was painted red, while Chalchiuhtlicue was blue. Humboldt&#x2019;s &#x2018;Aztec priestess&#x2019;, now in the British Museum, still shows faint traces of red paint.</p>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-005" href="#footnote-005-backlink">1</a></sup> A. von Humboldt, <em>Vues des cordill&#xE8;res et monuments des peuples indig&#xE8;nes de l&#x2019;Am&#xE9;rique</em> (Paris: Schoell, 1810&#x2013;13).</p>
+  <p class="footnote"><sup><a id="footnote-004" href="#footnote-004-backlink">2</a></sup> V. Denon, <em>Voyage dans la basse et la haute &#xC9;gypte, pendant les campagnes du G&#xE9;n&#xE9;ral Bonaparte</em> (Paris: P. Didot, 1802).</p>
+  <p class="footnote"><sup><a id="footnote-003" href="#footnote-003-backlink">3</a></sup> J.J. Winckelmann, <em>Geschichte der Kunst des Alterthums</em> (Dresden, 1764).</p>
+  <p class="footnote"><sup><a id="footnote-002" href="#footnote-002-backlink">4</a></sup> J. Fernando Ram&#xED;rez, &#x2018;Noticias hist&#xF3;ricas y estad&#xED;sticas de Durango&#x2019;, <em>Bolet&#xED;n de la Sociedad de Geograf&#xED;a y Estad&#xED;stica,</em> 5 (1857), 10.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Buchwald, J.Z., and D.G. Josefowicz (2010) <em>The Zodiac of Paris: How an Improbable Controversy over an Ancient Egyptian Artifact Provoked a Modern Debate between Religion and Science</em> (Princeton, NJ: Princeton University Press).</p>
   <p class="further-reading-ref">Ginzburg, C. (1998) &#x2018;Style as inclusion, style as exclusion&#x2019;, in <em>Picturing Science, Producing Art</em>, edited by C.A. Jones and P. Galison, 27&#x2013;54 (London/New York, NY: Routledge).</p>
@@ -30,9 +36,3 @@ weight: 19
   <p class="further-reading-ref">Pasztory, E. (2005) &#x2018;Identity and difference: the uses and meanings of ethnic styles&#x2019;, <em>Thinking with Things: Toward a New Vision of Art,</em> 157&#x2013;78 (Austin, TX: University of Texas Press).</p>
   <p class="further-reading-ref">Pasztory, E. (1998) <em>Aztec Art</em> (Norman, OK: University of Oklahoma Press).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-005" href="#footnote-005-backlink">1</a></sup> A. von Humboldt, <em>Vues des cordill&#xE8;res et monuments des peuples indig&#xE8;nes de l&#x2019;Am&#xE9;rique</em> (Paris: Schoell, 1810&#x2013;13).</p>
-  <p class="footnote"><sup><a id="footnote-004" href="#footnote-004-backlink">2</a></sup> V. Denon, <em>Voyage dans la basse et la haute &#xC9;gypte, pendant les campagnes du G&#xE9;n&#xE9;ral Bonaparte</em> (Paris: P. Didot, 1802).</p>
-  <p class="footnote"><sup><a id="footnote-003" href="#footnote-003-backlink">3</a></sup> J.J. Winckelmann, <em>Geschichte der Kunst des Alterthums</em> (Dresden, 1764).</p>
-  <p class="footnote"><sup><a id="footnote-002" href="#footnote-002-backlink">4</a></sup> J. Fernando Ram&#xED;rez, &#x2018;Noticias hist&#xF3;ricas y estad&#xED;sticas de Durango&#x2019;, <em>Bolet&#xED;n de la Sociedad de Geograf&#xED;a y Estad&#xED;stica,</em> 5 (1857), 10.</p>
-  

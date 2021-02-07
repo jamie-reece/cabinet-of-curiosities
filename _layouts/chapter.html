@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-<div class="section p-0">
-  <article id="article" class="columns article has-text-justified is-gapless">
-    <div id="articleBody" class="article-body column is-two-thirds">
-      <div id="contentBody" class="content p-6 has-text-dark">
+{% include decorative_banner.html %}
+<div class="section p-0 mb-6">
+  <article id="article" class="article has-text-justified">
+      <div class="content p-6 has-text-dark columns">
         {{ content }}
       </div>
-      <div class="copyright has-text-right pr-6 has-text-dark">
-        <p class="">Content © {{ page.author }}</p>
-      </div>
-    </div>
+      <p class="copyright pl-6">Content © <em>{{ page.author }}</em>, 2021</p>
   </article>
 </div>

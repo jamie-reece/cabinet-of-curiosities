@@ -13,28 +13,28 @@
 
   <div id="navbarBasicExample" class="navbar-menu">
     <div class="navbar-end">
-      <a class="navbar-item" href="/about">
+      <a class="navbar-item is-uppercase is-size-6" href="/about">
         About
       </a>
 
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/artificialia">
+        <a class="navbar-link is-uppercase is-size-6" href="/artificialia">
           Artificialia
         </a>
         <div class="navbar-dropdown">
           {% for chapter in site.artificialia %}
-            <a class="navbar-item" href="{{ chapter.url }}">{{ chapter.title }} by {{ chapter.author }}</a>
+            <a class="navbar-item" href="{{ chapter.url }}">{{ chapter.title }} | <em style="margin-left:0.2em;">{{ chapter.author }}</em></a>
            {% endfor %}
         </div>
       </div>
 
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="/naturalia">
+        <a class="navbar-link is-uppercase is-size-6" href="/naturalia">
           Naturalia
         </a>
         <div class="navbar-dropdown">
           {% for chapter in site.naturalia %}
-            <a class="navbar-item" href="{{ chapter.url }}">{{ chapter.title }} by {{ chapter.author }}</a>
+            <a class="navbar-item" href="{{ chapter.url }}">{{ chapter.title }} | <em style="margin-left:0.2em;">{{ chapter.author }}</em></a>
            {% endfor %}
         </div>
       </div>

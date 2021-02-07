@@ -3,10 +3,7 @@ author: Peter Mason
 weight: 11
 ---
 
-<div class="ch-opener" id="ch11">
-  <p class="CT">MARY&#x2019;S ARMADILLO</p>
-  <p class="Author-Heading">Peter Mason</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch11">
   <figure><img id="fig1-ch11" class="img50" src="{{ site.baseurl }}/content/images/pg83.jpg" alt=""/>
   <figcaption><em>Figure 1. Detail of the Cavendish Hanging embroidered by Mary, Queen of Scots (Oxburgh Hall, Norfolk; on loan from the Victoria and Albert Museum, inv. T.30-1955; public domain).</em></figcaption></figure>
   <p>The creature represented on this 16th-century piece of silk embroidery by Mary, Queen of Scots and labelled &#x2018;<span class="ePub-SC">A TATOU</span>&#x2019; is a South American armadillo. How did Mary obtain a model for her needlework? This piece is one of 22 like it mounted, together with four octagonal panels, around a square central panel on a large green velvet hanging known as the Cavendish Hanging. It is now kept at Oxburgh Hall in Norfolk, England, on loan from the Victoria and Albert Museum of London. The Cavendish Hanging owes its name to the presence of the Cavendish coat of arms, testimony to the ties between the Cavendish family (Elizabeth Hardwick, better known as Bess of Hardwick, had married Sir William Cavendish in 1547) and Mary Stuart, Queen of Scots. Bess&#x2019;s monogram appears on it three times and Mary&#x2019;s once. After her forced abdication as queen of Scotland in 1567, Mary, who was Catholic, spent 16 years in the custody of Bess and her fourth husband, George Talbot, earl of Shrewsbury, in Chatsworth House, Tutbury Castle and other seats of the family. It was probably during the early years of Mary&#x2019;s captivity that the two women and their staff of professional embroiderers produced most of this needlework.</p>
@@ -21,7 +18,14 @@ weight: 11
   <p class="Quotation-in-text">There is also an animal named &#x2018;armadillo&#x2019; that resembles in shape a horse with a pack saddle. It is like a beast of burden &#x2026; On its back it has a natural pack-saddle from under which its feet and tail protrude. It is the size of a dog.<a id="footnote-025-backlink" href="#footnote-025"><sup>3</sup></a></p>
   <p>The bizarre attempts to represent the armadillo in the various manuscripts and printed editions of this work indicate just how a lack of familiarity with the creature in question could lead the illustrator astray.</p>
   <p>So, the choice by Mary, Queen of Scots, at one time queen of France, to carry out her needlework in Derbyshire, Yorkshire and Staffordshire using an image of an American armadillo seen in the market in Constantinople by a French naturalist was, after all, an astute one.</p>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-027" href="#footnote-027-backlink">1</a></sup> P. Belon, <em>Observations of Several Singularities and Memorable Things Found in Greece, Turkey, Judea, Egypt, Arabia and Other Foreign Countries</em> (Paris, 1553), 210<span class="ePub-SUP">r</span>.</p>
+  <p class="footnote"><sup><a id="footnote-026" href="#footnote-026-backlink">2</a></sup> W. Raleigh, <em>The Discoverie of the Large, Rich and Bewtiful Empyre of Guiana</em> (London, 1596), 61.</p>
+  <p class="footnote"><sup><a id="footnote-025" href="#footnote-025-backlink">3</a></sup> T.D. Goodrich, <em>The Ottoman Turks and the New World: A Study of</em> Tarih-i Hindi-i Garbi <em>and Sixteenth-Century Ottoman Americana</em> (Wiesbaden: Otto Harrassowitz, 1990), 305.</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">Bath, M. (2008) <em>Emblems for a Queen: The Needlework of Mary Queen of Scots</em> (London: Archetype Publications).</p>
   <p class="further-reading-ref">Cei, G. (1992) <em>Viaggio e relazione delle Indie (1539&#x2013;1553)</em>, edited by F. Surdich (Rome: Bulzoni Editore).</p>
@@ -31,8 +35,3 @@ weight: 11
   <p class="further-reading-ref">Mason, P. (2015) &#x2018;Andr&#xE9; Thevet, Pierre Belon and <em>Americana</em> in the embroideries of Mary Queen of Scots&#x2019;, <em>Journal of the Warburg and Courtauld Institutes,</em> vol. 78, 207&#x2013;21.</p>
   <p class="further-reading-ref">Merle, A. (ed.) (2001) <em>Voyage au Levant (1553): les observations de Pierre Belon du Mans</em> (Paris: Chandeigne).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-027" href="#footnote-027-backlink">1</a></sup> P. Belon, <em>Observations of Several Singularities and Memorable Things Found in Greece, Turkey, Judea, Egypt, Arabia and Other Foreign Countries</em> (Paris, 1553), 210<span class="ePub-SUP">r</span>.</p>
-  <p class="footnote"><sup><a id="footnote-026" href="#footnote-026-backlink">2</a></sup> W. Raleigh, <em>The Discoverie of the Large, Rich and Bewtiful Empyre of Guiana</em> (London, 1596), 61.</p>
-  <p class="footnote"><sup><a id="footnote-025" href="#footnote-025-backlink">3</a></sup> T.D. Goodrich, <em>The Ottoman Turks and the New World: A Study of</em> Tarih-i Hindi-i Garbi <em>and Sixteenth-Century Ottoman Americana</em> (Wiesbaden: Otto Harrassowitz, 1990), 305.</p>
-  

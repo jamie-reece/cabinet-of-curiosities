@@ -1,12 +1,10 @@
 ---
 author: Mariana Françozo
 weight: 7
+hero: pg59
 ---
 
-<div class="ch-opener" id="ch7">
-  <p class="CT">SILVER BASIN</p>
-  <p class="Author-Heading">Mariana Fran&#xE7;ozo</p>
-  </div>
+<div class="ch-opener column is-two-thirds pr-5" id="ch7">
   <p>Every first Sunday of the month, the staff of the frugal Protestant <em>Nikolaikirche</em> in the small town of Siegen, Germany, prepare the church for a special service. Next to the usual arrangement of simple wooden chairs aligned in neat rows inside the typically undecorated, white-walled church, a uniquely ornate object is taken out from the church&#x2019;s collection. It is a gilded silver baptismal basin, about 54 cm in diameter, 12.3 cm high and weighing about five kilograms, with a frieze seven cm wide adorned with houses, animals, monsters and four medals. Its 7.8 cm base sports an inscription in Latin on the bottom, which reads: <em>Johan Maurits, Count of Nassau, inaugurated in 1658 for use in the holy baptism of the Reformed Church of Siegen this gift which he, as governor of Brazil, received from the African king of Congo.</em></p>
   <p>Baptismal basins are common items found in any Christian church. But the Siegen basin is a unique piece of work whose history and trajectory perfectly exemplify the global connections that brought together Andean miners and metalworkers, European and American slave traders and African rulers during the early modern period. The first point to note is that the basin is made of silver. For centuries China was the primary end market for silver, due to the higher value of silver there compared to other places. The discovery and industrial development of silver mines at Potos&#xED; in the 1540s transformed the world economy, oiling the wheels of a global trade that connected Peru with Europe, Africa and Asia. Indeed, Potos&#xED; was the world&#x2019;s leading silver producer until the middle decades of the 17th century, when it was overtaken by Mexican mines. Hispanic American silver flowed around the world in both minted and luxury forms. In this context, an enormous quantity of fine silverwares was transported from Spanish America to Europe, Africa and Asia. Part of this global trade, the Siegen basin made three transatlantic journeys.</p>
   <p>The origins of the basin were the subject of curiosity and debate already in the late 17th century. In the November 1693 edition of his monthly periodical <em>Monatliche Unterredungen</em>, German polymath Wilhelm Tentzel published a piece on the basin.<a id="footnote-041-backlink" href="#footnote-041"><sup>1</sup></a> Inspired by the dialogical genre found in classical philosophical works, Tentzel&#x2019;s text takes the form of a disputation among three friends: Antonio, Leonardo and Constantino. The three debate whether the Siegen basin is of American or African origin, taking the &#x2018;hieroglyphs&#x2019; engraved on its frieze as a starting point. After pages and pages of baroque erudition, they fail to reach a consensus. The question remained as to whether the &#x2018;hieroglyphs&#x2019; were Mexican, Peruvian or Congolese. In the mid 19th century, historian Ludwig Driessen studied the basin, concluding that it was clearly the work of Italian craftsmen. In the hundred years that followed, scholars and historians proposed other hypotheses: it was an Italian basin produced to be exported to Africa, an African piece made by Benin craftsmen or a Portuguese piece made in Congo or Portugal.</p>
@@ -18,7 +16,12 @@ weight: 7
   <figure><img id="fig1-ch7" class="img60" src="{{ site.baseurl }}/content/images/pg59.jpg" alt=""/>
   <figcaption><em>Figure 1. Baptismal silver basin (courtesy of Siegen Evangelical Church, Germany).</em></figcaption></figure>
   <p>Back in Europe, Maurits became governor of Cleve in Germany and in 1658 attended the election in Frankfurt of Leopold I (1640&#x2013;1705) as the 46th Holy Roman emperor. While in Frankfurt, he hired the services of a goldsmith to coat the basin in gold, engrave it with his coat of arms and add a base with an inscription commemorating the event. That same year, Maurits presented the basin to the Protestant church in Siegen, where it rests today.</p>
-  <div class="further-reading-container">
+  
+
+  <p class="footnote"><sup><a id="footnote-041" href="#footnote-041-backlink">1</a></sup> W. Tentzel, <em>Monatliche Unterredungen einiger Guten Freunde von Allerhand B&#xFC;chern und andern annemlichen Geschichten</em> (Leipzig: J.F. Gleditsch, 1693).</p>
+  
+</div>
+<div class="further-reading-container column is-one-third">
 <h2 class="subhead" id="further-reading">Further reading</h2>
   <p class="further-reading-ref">de Alencastro, L.F. (2018) <em>The Trade in the Living: The Formation of Brazil in the South Atlantic, Sixteenth to Seventeenth Centuries</em> (Albany, NY: SUNY Press).</p>
   <p class="further-reading-ref">Fran&#xE7;ozo, M. (2014) &#x2018;Global connections: Johan Maurits of Nassau-Siegen&#x2019;s collection of curiosities&#x2019;, in <em>The Legacy of Dutch Brazil</em>, edited by M. van Groesen, 105&#x2013;23 (New York, NY: Cambridge University Press).</p>
@@ -27,6 +30,3 @@ weight: 7
   <p class="further-reading-ref">Schwartz, S. (2011) &#x2018;The Iberian Atlantic to 1650&#x2019;, in <em>The Oxford Handbook of the Atlantic World 1450&#x2013;1850</em>, edited by N. Canny and P. Morgan, 147&#x2013;64 (Oxford: Oxford University Press).</p>
   <p class="further-reading-ref">Tentzel, W. (1693) <em>Monatliche Unterredungen einiger Guten Freunde von Allerhand B&#xFC;chern und andern annemlichen Geschichten</em> (Leipzig: J.F. Gleditsch).</p>
 </div>
-
-  <p class="footnote"><sup><a id="footnote-041" href="#footnote-041-backlink">1</a></sup> W. Tentzel, <em>Monatliche Unterredungen einiger Guten Freunde von Allerhand B&#xFC;chern und andern annemlichen Geschichten</em> (Leipzig: J.F. Gleditsch, 1693).</p>
-  

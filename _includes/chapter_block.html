@@ -6,11 +6,12 @@
         {{ chapter.title }}
       </h1>
       <p class="subtitle">
-        {{ chapter.author }}
+        <em>{{ chapter.author }}</em>
       </p>
       <div class="tags mt-6">
-        {% for tag in chapter.tags %}
-          <span class="tag is-white">{{ tag }}</span>
+        {% assign tags = chapter.tags | sort %}
+        {% for tag in tags %}
+          <span class="tag is-white is-uppercase">{{ tag }}</span>
         {% endfor %}
       </div>
     </article>
