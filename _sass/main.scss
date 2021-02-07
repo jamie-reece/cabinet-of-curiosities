@@ -2,14 +2,6 @@
 
 // overrides
 
-.hero-body {
-  .title-container {
-    width: max-content;
-    padding: 1em;
-    background-color: rgba(255, 255, 255, 0.6);
-  }
-}
-
 $size-1: 4rem;
 
 // custom
@@ -63,4 +55,15 @@ figcaption {
 
 .footnote, .further-reading-ref {
   font-size: 1.2rem;
+}
+
+// media queries
+
+@media screen and (max-width: 768px) {
+  .title-banner .hero-body .container, .title-banner .hero-body .title-container {
+    padding: 0 !important;
+  }
+  .content {
+    margin: -2rem !important;
+  }
 }

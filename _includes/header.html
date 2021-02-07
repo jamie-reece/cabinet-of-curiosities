@@ -1,10 +1,10 @@
 {% if page.hero %}
-<header class="title-banner hero banner is-medium has-text-light"
+<header class="title-banner hero banner is-medium"
         style="background-image: linear-gradient(45deg, rgba(145, 146, 122, 0.22),
                                  rgba(91, 217, 200, 0.18)),
                                   url('{{ site.baseurl }}/content/images/{{ page.hero }}.jpg');">
 {% else %}
-<header class="title-banner hero banner is-medium has-text-light"
+<header class="title-banner hero banner is-medium"
         style="background-image: linear-gradient(45deg, rgba(145, 146, 122, 0.22),
                                  rgba(91, 217, 200, 0.18));">
 {% endif %}
@@ -12,19 +12,19 @@
     {% include navigation.html %}
   </div>
   <div class="hero-body">
-    <div class="container px-5">
-      <h1 class="title is-1 has-text-light">
+    <div class="container px-6">
+      <h1 class="title is-size-1-desktop is-size-2-mobile">
         {{ page.title }}
       </h1>
       {% if page.author %}
-      <h2 class="title is-4 has-text-light">
+      <h2 class="is-size-4-desktop mb-4">
         <em>by <a class="has-text-white" href="/about/authors#{{ page.author | slugify }}">{{ page.author }}</a></em>
       </h2>
       {% endif %}
       {% if page.subtitle %}
-      <p class="title is-4 has-text-light">
+      <h2 class="is-size-4-desktop mb-4">
         <em>{{ page.subtitle }}</em>
-      </p>
+      </h2>
       {% endif %}
       {% if page.tags %}
         <div class="tags">
